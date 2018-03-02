@@ -17,7 +17,7 @@ A full stack MERN application that returns recipes based on a user’s grocery l
 2.	*When a grocery item has been purchased, click on the **Purchased** button so that the application knows that you have the ability to use the item in a recipe.*
 
 ![Image 2 and 3 of savor app](client/src/images/instructions2.png)
-(client/src/images/instructions2.2.png)
+
 
 3.	*Users can get recipes for any combination of items on their grocery list by clicking the **Get Recipes** button for each item that they would like to use.*
 
