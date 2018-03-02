@@ -5,17 +5,18 @@
 A full stack MERN application that returns recipes based on a user’s grocery list. As users consume their groceries and remove food from their grocery list, a list of recipes dynamically changes, allowing the user to make the most of the food they have, thus reducing waste. The app utilizes MongoDB, Express.js, React.js, Node.js, CSS3, Boostrap, Passport, Bcrypt, the Edamam API and Heroku. 
 
 
+
+
+
 **Instructions**
 
 1.	*Create a grocery list by entering grocery items and hitting the **Submit** button.*
 
-![Image 1 savor app]
-(client/src/images/instructions1.png)
+![Image 1 savor app](client/src/images/instructions1.png)
 
 2.	*When a grocery item has been purchased, click on the **Purchased** button so that the application knows that you have the ability to use the item in a recipe.*
 
-![Image 2 and 3 of savor app]
-(client/src/images/instructions2.png)
+![Image 2 and 3 of savor app](client/src/images/instructions2.png)
 (client/src/images/instructions2.2.png)
 
 3.	*Users can get recipes for any combination of items on their grocery list by clicking the **Get Recipes** button for each item that they would like to use.*
@@ -24,8 +25,10 @@ A full stack MERN application that returns recipes based on a user’s grocery l
 
 5.	*When an item has been devoured, users can remove it from their grocery list by clicking the **Delete** button.*
 
-![Image 4 of savor app]
-(client/src/images/instructions3-4-5.png)
+![Image 4 of savor app](client/src/images/instructions3-4-5.png)
+
+
+
 
 
 
