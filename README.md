@@ -37,7 +37,7 @@ A full stack MERN application that returns recipes based on a user’s grocery l
 
 *James Kariuki* – *Created database collections, server side routing and logic for authentication, and handled the Passport and Bcrypt npm packages.* 
 
-*Meynard Sabate* – *Assisted with Front end design and development.* 
+*Meynard Sabate* – *Assisted with front end design and development.* 
 
 <br/>
 <br/>
